@@ -625,10 +625,6 @@ const SPANISH_WORDS = [
     word: "ellos",
   },
   {
-    rank: 157,
-    word: "sr.",
-  },
-  {
     rank: 158,
     word: "tal",
   },
@@ -863,10 +859,6 @@ const SPANISH_WORDS = [
   {
     rank: 216,
     word: "nombre",
-  },
-  {
-    rank: 217,
-    word: "mierda",
   },
   {
     rank: 218,
@@ -1381,10 +1373,6 @@ const SPANISH_WORDS = [
     word: "hey",
   },
   {
-    rank: 346,
-    word: "muerte",
-  },
-  {
     rank: 347,
     word: "dejar",
   },
@@ -1705,10 +1693,6 @@ const SPANISH_WORDS = [
     word: "loco",
   },
   {
-    rank: 427,
-    word: "sangre",
-  },
-  {
     rank: 428,
     word: "mujeres",
   },
@@ -1909,10 +1893,6 @@ const SPANISH_WORDS = [
     word: "capitán",
   },
   {
-    rank: 478,
-    word: "sra.",
-  },
-  {
     rank: 479,
     word: "bebé",
   },
@@ -2049,10 +2029,6 @@ const SPANISH_WORDS = [
     word: "seguir",
   },
   {
-    rank: 513,
-    word: "dr.",
-  },
-  {
     rank: 514,
     word: "simplemente",
   },
@@ -2063,10 +2039,6 @@ const SPANISH_WORDS = [
   {
     rank: 516,
     word: "medio",
-  },
-  {
-    rank: 517,
-    word: "puta",
   },
   {
     rank: 518,
@@ -2121,10 +2093,6 @@ const SPANISH_WORDS = [
     word: "seguridad",
   },
   {
-    rank: 531,
-    word: "maldita",
-  },
-  {
     rank: 532,
     word: "estuvo",
   },
@@ -2147,10 +2115,6 @@ const SPANISH_WORDS = [
   {
     rank: 537,
     word: "oficina",
-  },
-  {
-    rank: 538,
-    word: "matar",
   },
   {
     rank: 539,
@@ -2209,14 +2173,6 @@ const SPANISH_WORDS = [
     word: "correcto",
   },
   {
-    rank: 553,
-    word: "ud.",
-  },
-  {
-    rank: 554,
-    word: "demonios",
-  },
-  {
     rank: 555,
     word: "nuestras",
   },
@@ -2253,10 +2209,6 @@ const SPANISH_WORDS = [
     word: "paz",
   },
   {
-    rank: 564,
-    word: "idiota",
-  },
-  {
     rank: 565,
     word: "plan",
   },
@@ -2287,10 +2239,6 @@ const SPANISH_WORDS = [
   {
     rank: 572,
     word: "venido",
-  },
-  {
-    rank: 573,
-    word: "john",
   },
   {
     rank: 574,
@@ -2357,10 +2305,6 @@ const SPANISH_WORDS = [
     word: "pienso",
   },
   {
-    rank: 590,
-    word: "diablos",
-  },
-  {
     rank: 591,
     word: "perdido",
   },
@@ -2387,10 +2331,6 @@ const SPANISH_WORDS = [
   {
     rank: 597,
     word: "grandes",
-  },
-  {
-    rank: 598,
-    word: "maldito",
   },
   {
     rank: 599,
@@ -2493,10 +2433,6 @@ const SPANISH_WORDS = [
     word: "cielo",
   },
   {
-    rank: 624,
-    word: "jack",
-  },
-  {
     rank: 625,
     word: "puesto",
   },
@@ -2595,10 +2531,6 @@ const SPANISH_WORDS = [
   {
     rank: 649,
     word: "presidente",
-  },
-  {
-    rank: 650,
-    word: "srta.",
   },
   {
     rank: 651,
@@ -2701,10 +2633,6 @@ const SPANISH_WORDS = [
     word: "noticias",
   },
   {
-    rank: 676,
-    word: "asesino",
-  },
-  {
     rank: 677,
     word: "encontrado",
   },
@@ -2719,10 +2647,6 @@ const SPANISH_WORDS = [
   {
     rank: 680,
     word: "frente",
-  },
-  {
-    rank: 681,
-    word: "sexo",
   },
   {
     rank: 682,
@@ -2805,10 +2729,6 @@ const SPANISH_WORDS = [
     word: "sino",
   },
   {
-    rank: 702,
-    word: "the",
-  },
-  {
     rank: 703,
     word: "seas",
   },
@@ -2867,10 +2787,6 @@ const SPANISH_WORDS = [
   {
     rank: 717,
     word: "decirte",
-  },
-  {
-    rank: 718,
-    word: "sam",
   },
   {
     rank: 719,
@@ -2961,10 +2877,6 @@ const SPANISH_WORDS = [
     word: "ganar",
   },
   {
-    rank: 741,
-    word: "york",
-  },
-  {
     rank: 742,
     word: "aire",
   },
@@ -2975,10 +2887,6 @@ const SPANISH_WORDS = [
   {
     rank: 744,
     word: "ver",
-  },
-  {
-    rank: 745,
-    word: "asesinato",
   },
   {
     rank: 746,
@@ -2995,10 +2903,6 @@ const SPANISH_WORDS = [
   {
     rank: 749,
     word: "disculpe",
-  },
-  {
-    rank: 750,
-    word: "s",
   },
   {
     rank: 751,
@@ -3201,10 +3105,6 @@ const SPANISH_WORDS = [
     word: "accidente",
   },
   {
-    rank: 801,
-    word: "i",
-  },
-  {
     rank: 802,
     word: "ellas",
   },
@@ -3241,10 +3141,6 @@ const SPANISH_WORDS = [
     word: "vista",
   },
   {
-    rank: 811,
-    word: "estúpido",
-  },
-  {
     rank: 812,
     word: "línea",
   },
@@ -3255,10 +3151,6 @@ const SPANISH_WORDS = [
   {
     rank: 814,
     word: "haremos",
-  },
-  {
-    rank: 815,
-    word: "dan",
   },
   {
     rank: 816,
@@ -3289,24 +3181,12 @@ const SPANISH_WORDS = [
     word: "mes",
   },
   {
-    rank: 823,
-    word: "joe",
-  },
-  {
-    rank: 824,
-    word: "sol",
-  },
-  {
     rank: 825,
     word: "tonto",
   },
   {
     rank: 826,
     word: "hambre",
-  },
-  {
-    rank: 827,
-    word: "michael",
   },
   {
     rank: 828,
@@ -3319,10 +3199,6 @@ const SPANISH_WORDS = [
   {
     rank: 830,
     word: "completamente",
-  },
-  {
-    rank: 831,
-    word: "david",
   },
   {
     rank: 832,
@@ -3353,16 +3229,8 @@ const SPANISH_WORDS = [
     word: "gustan",
   },
   {
-    rank: 839,
-    word: "frank",
-  },
-  {
     rank: 840,
     word: "pude",
-  },
-  {
-    rank: 841,
-    word: "charlie",
   },
   {
     rank: 842,
@@ -3401,10 +3269,6 @@ const SPANISH_WORDS = [
     word: "blanco",
   },
   {
-    rank: 851,
-    word: "tom",
-  },
-  {
     rank: 852,
     word: "profesor",
   },
@@ -3437,10 +3301,6 @@ const SPANISH_WORDS = [
     word: "hubo",
   },
   {
-    rank: 860,
-    word: "george",
-  },
-  {
     rank: 861,
     word: "programa",
   },
@@ -3455,10 +3315,6 @@ const SPANISH_WORDS = [
   {
     rank: 864,
     word: "muchachos",
-  },
-  {
-    rank: 865,
-    word: "culo",
   },
   {
     rank: 866,
@@ -3533,10 +3389,6 @@ const SPANISH_WORDS = [
     word: "prisa",
   },
   {
-    rank: 884,
-    word: "carajo",
-  },
-  {
     rank: 885,
     word: "embargo",
   },
@@ -3585,14 +3437,6 @@ const SPANISH_WORDS = [
     word: "acá",
   },
   {
-    rank: 897,
-    word: "io",
-  },
-  {
-    rank: 898,
-    word: "mike",
-  },
-  {
     rank: 899,
     word: "siéntate",
   },
@@ -3607,10 +3451,6 @@ const SPANISH_WORDS = [
   {
     rank: 902,
     word: "vámonos",
-  },
-  {
-    rank: 903,
-    word: "maldición",
   },
   {
     rank: 904,
@@ -4013,10 +3853,6 @@ const SPANISH_WORDS = [
     word: "doy",
   },
   {
-    rank: 1004,
-    word: "peter",
-  },
-  {
     rank: 1005,
     word: "hicimos",
   },
@@ -4109,10 +3945,6 @@ const SPANISH_WORDS = [
     word: "adentro",
   },
   {
-    rank: 1028,
-    word: "drogas",
-  },
-  {
     rank: 1029,
     word: "enseguida",
   },
@@ -4161,14 +3993,6 @@ const SPANISH_WORDS = [
     word: "cargo",
   },
   {
-    rank: 1041,
-    word: "víctima",
-  },
-  {
-    rank: 1042,
-    word: "luna",
-  },
-  {
     rank: 1043,
     word: "energía",
   },
@@ -4203,14 +4027,6 @@ const SPANISH_WORDS = [
   {
     rank: 1051,
     word: "izquierda",
-  },
-  {
-    rank: 1052,
-    word: "paul",
-  },
-  {
-    rank: 1053,
-    word: "beber",
   },
   {
     rank: 1054,
@@ -4285,20 +4101,12 @@ const SPANISH_WORDS = [
     word: "verás",
   },
   {
-    rank: 1072,
-    word: "linda",
-  },
-  {
     rank: 1073,
     word: "apenas",
   },
   {
     rank: 1074,
     word: "segundos",
-  },
-  {
-    rank: 1075,
-    word: "cerveza",
   },
   {
     rank: 1076,
@@ -4381,10 +4189,6 @@ const SPANISH_WORDS = [
     word: "bonita",
   },
   {
-    rank: 1096,
-    word: "joder",
-  },
-  {
     rank: 1097,
     word: "causa",
   },
@@ -4417,10 +4221,6 @@ const SPANISH_WORDS = [
     word: "existe",
   },
   {
-    rank: 1105,
-    word: "ben",
-  },
-  {
     rank: 1106,
     word: "zona",
   },
@@ -4443,14 +4243,6 @@ const SPANISH_WORDS = [
   {
     rank: 1111,
     word: "irse",
-  },
-  {
-    rank: 1112,
-    word: "perra",
-  },
-  {
-    rank: 1113,
-    word: "james",
   },
   {
     rank: 1114,
@@ -4493,10 +4285,6 @@ const SPANISH_WORDS = [
     word: "viva",
   },
   {
-    rank: 1124,
-    word: "max",
-  },
-  {
     rank: 1125,
     word: "vienes",
   },
@@ -4531,10 +4319,6 @@ const SPANISH_WORDS = [
   {
     rank: 1133,
     word: "posición",
-  },
-  {
-    rank: 1134,
-    word: "trasero",
   },
   {
     rank: 1135,
@@ -4605,10 +4389,6 @@ const SPANISH_WORDS = [
     word: "radio",
   },
   {
-    rank: 1152,
-    word: "lee",
-  },
-  {
     rank: 1153,
     word: "calma",
   },
@@ -4629,10 +4409,6 @@ const SPANISH_WORDS = [
     word: "humano",
   },
   {
-    rank: 1158,
-    word: "henry",
-  },
-  {
     rank: 1159,
     word: "tí",
   },
@@ -4647,10 +4423,6 @@ const SPANISH_WORDS = [
   {
     rank: 1162,
     word: "habían",
-  },
-  {
-    rank: 1163,
-    word: "jesús",
   },
   {
     rank: 1164,
@@ -4703,10 +4475,6 @@ const SPANISH_WORDS = [
   {
     rank: 1176,
     word: "debajo",
-  },
-  {
-    rank: 1177,
-    word: "harry",
   },
   {
     rank: 1178,
@@ -4869,10 +4637,6 @@ const SPANISH_WORDS = [
     word: "arte",
   },
   {
-    rank: 1218,
-    word: "mary",
-  },
-  {
     rank: 1219,
     word: "jugando",
   },
@@ -4887,10 +4651,6 @@ const SPANISH_WORDS = [
   {
     rank: 1222,
     word: "bailar",
-  },
-  {
-    rank: 1223,
-    word: "diablo",
   },
   {
     rank: 1224,
@@ -4941,10 +4701,6 @@ const SPANISH_WORDS = [
     word: "tuvimos",
   },
   {
-    rank: 1236,
-    word: "you",
-  },
-  {
     rank: 1237,
     word: "verla",
   },
@@ -4985,10 +4741,6 @@ const SPANISH_WORDS = [
     word: "irte",
   },
   {
-    rank: 1247,
-    word: "ia",
-  },
-  {
     rank: 1248,
     word: "comandante",
   },
@@ -5021,16 +4773,8 @@ const SPANISH_WORDS = [
     word: "teniendo",
   },
   {
-    rank: 1256,
-    word: "bill",
-  },
-  {
     rank: 1257,
     word: "informe",
-  },
-  {
-    rank: 1258,
-    word: "jimmy",
   },
   {
     rank: 1259,
@@ -5047,10 +4791,6 @@ const SPANISH_WORDS = [
   {
     rank: 1262,
     word: "tocar",
-  },
-  {
-    rank: 1263,
-    word: "bob",
   },
   {
     rank: 1264,
@@ -5097,20 +4837,12 @@ const SPANISH_WORDS = [
     word: "empieza",
   },
   {
-    rank: 1275,
-    word: "londres",
-  },
-  {
     rank: 1276,
     word: "empezó",
   },
   {
     rank: 1277,
     word: "vayan",
-  },
-  {
-    rank: 1278,
-    word: "jim",
   },
   {
     rank: 1279,
@@ -5165,16 +4897,8 @@ const SPANISH_WORDS = [
     word: "cartas",
   },
   {
-    rank: 1292,
-    word: "bomba",
-  },
-  {
     rank: 1293,
     word: "guardia",
-  },
-  {
-    rank: 1294,
-    word: "pistola",
   },
   {
     rank: 1295,
@@ -5215,10 +4939,6 @@ const SPANISH_WORDS = [
   {
     rank: 1304,
     word: "nota",
-  },
-  {
-    rank: 1305,
-    word: "danny",
   },
   {
     rank: 1306,
@@ -5297,16 +5017,8 @@ const SPANISH_WORDS = [
     word: "tome",
   },
   {
-    rank: 1325,
-    word: "nick",
-  },
-  {
     rank: 1326,
     word: "animales",
-  },
-  {
-    rank: 1327,
-    word: "alex",
   },
   {
     rank: 1328,
@@ -5357,10 +5069,6 @@ const SPANISH_WORDS = [
     word: "correr",
   },
   {
-    rank: 1340,
-    word: "steve",
-  },
-  {
     rank: 1341,
     word: "traído",
   },
@@ -5377,24 +5085,12 @@ const SPANISH_WORDS = [
     word: "haber",
   },
   {
-    rank: 1345,
-    word: "tony",
-  },
-  {
-    rank: 1346,
-    word: "usa",
-  },
-  {
     rank: 1347,
     word: "intentar",
   },
   {
     rank: 1348,
     word: "ayudarme",
-  },
-  {
-    rank: 1349,
-    word: "flores",
   },
   {
     rank: 1350,
@@ -5431,10 +5127,6 @@ const SPANISH_WORDS = [
   {
     rank: 1358,
     word: "exacto",
-  },
-  {
-    rank: 1359,
-    word: "imbécil",
   },
   {
     rank: 1360,
@@ -5501,10 +5193,6 @@ const SPANISH_WORDS = [
     word: "intenta",
   },
   {
-    rank: 1376,
-    word: "sarah",
-  },
-  {
     rank: 1377,
     word: "fantástico",
   },
@@ -5541,10 +5229,6 @@ const SPANISH_WORDS = [
     word: "bosque",
   },
   {
-    rank: 1386,
-    word: "gay",
-  },
-  {
     rank: 1387,
     word: "señores",
   },
@@ -5559,10 +5243,6 @@ const SPANISH_WORDS = [
   {
     rank: 1390,
     word: "visita",
-  },
-  {
-    rank: 1391,
-    word: "parís",
   },
   {
     rank: 1392,
@@ -5599,10 +5279,6 @@ const SPANISH_WORDS = [
   {
     rank: 1400,
     word: "vacaciones",
-  },
-  {
-    rank: 1401,
-    word: "um",
   },
   {
     rank: 1402,
@@ -5649,10 +5325,6 @@ const SPANISH_WORDS = [
     word: "especialmente",
   },
   {
-    rank: 1413,
-    word: "fbi",
-  },
-  {
     rank: 1414,
     word: "embarazada",
   },
@@ -5681,10 +5353,6 @@ const SPANISH_WORDS = [
     word: "estupendo",
   },
   {
-    rank: 1421,
-    word: "jane",
-  },
-  {
     rank: 1422,
     word: "presión",
   },
@@ -5711,10 +5379,6 @@ const SPANISH_WORDS = [
   {
     rank: 1428,
     word: "resulta",
-  },
-  {
-    rank: 1429,
-    word: "tommy",
   },
   {
     rank: 1430,
@@ -5909,20 +5573,8 @@ const SPANISH_WORDS = [
     word: "trampa",
   },
   {
-    rank: 1478,
-    word: "ray",
-  },
-  {
-    rank: 1479,
-    word: "billy",
-  },
-  {
     rank: 1480,
     word: "memoria",
-  },
-  {
-    rank: 1481,
-    word: "johnny",
   },
   {
     rank: 1482,
@@ -6021,16 +5673,8 @@ const SPANISH_WORDS = [
     word: "anillo",
   },
   {
-    rank: 1506,
-    word: "richard",
-  },
-  {
     rank: 1507,
     word: "preguntar",
-  },
-  {
-    rank: 1508,
-    word: "victoria",
   },
   {
     rank: 1509,
@@ -6055,10 +5699,6 @@ const SPANISH_WORDS = [
   {
     rank: 1514,
     word: "responsable",
-  },
-  {
-    rank: 1515,
-    word: "trago",
   },
   {
     rank: 1516,
@@ -6213,10 +5853,6 @@ const SPANISH_WORDS = [
     word: "hielo",
   },
   {
-    rank: 1554,
-    word: "coño",
-  },
-  {
     rank: 1555,
     word: "cayó",
   },
@@ -6231,10 +5867,6 @@ const SPANISH_WORDS = [
   {
     rank: 1558,
     word: "vengan",
-  },
-  {
-    rank: 1559,
-    word: "eddie",
   },
   {
     rank: 1560,
@@ -6265,10 +5897,6 @@ const SPANISH_WORDS = [
     word: "hubiese",
   },
   {
-    rank: 1567,
-    word: "mark",
-  },
-  {
     rank: 1568,
     word: "asiento",
   },
@@ -6279,10 +5907,6 @@ const SPANISH_WORDS = [
   {
     rank: 1570,
     word: "herido",
-  },
-  {
-    rank: 1571,
-    word: "maría",
   },
   {
     rank: 1572,
@@ -6319,10 +5943,6 @@ const SPANISH_WORDS = [
   {
     rank: 1580,
     word: "perdió",
-  },
-  {
-    rank: 1581,
-    word: "robert",
   },
   {
     rank: 1582,
@@ -6367,10 +5987,6 @@ const SPANISH_WORDS = [
   {
     rank: 1592,
     word: "mírame",
-  },
-  {
-    rank: 1593,
-    word: "chris",
   },
   {
     rank: 1594,
@@ -6419,10 +6035,6 @@ const SPANISH_WORDS = [
   {
     rank: 1605,
     word: "nosotras",
-  },
-  {
-    rank: 1606,
-    word: "will",
   },
   {
     rank: 1607,
@@ -6521,14 +6133,6 @@ const SPANISH_WORDS = [
     word: "estan",
   },
   {
-    rank: 1631,
-    word: "cuchillo",
-  },
-  {
-    rank: 1632,
-    word: "t",
-  },
-  {
     rank: 1633,
     word: "oigan",
   },
@@ -6539,10 +6143,6 @@ const SPANISH_WORDS = [
   {
     rank: 1635,
     word: "gana",
-  },
-  {
-    rank: 1636,
-    word: "tonterías",
   },
   {
     rank: 1637,
@@ -6565,10 +6165,6 @@ const SPANISH_WORDS = [
     word: "lugares",
   },
   {
-    rank: 1642,
-    word: "ryan",
-  },
-  {
     rank: 1643,
     word: "show",
   },
@@ -6583,10 +6179,6 @@ const SPANISH_WORDS = [
   {
     rank: 1646,
     word: "parque",
-  },
-  {
-    rank: 1647,
-    word: "uds.",
   },
   {
     rank: 1648,
@@ -6611,10 +6203,6 @@ const SPANISH_WORDS = [
   {
     rank: 1653,
     word: "conocerte",
-  },
-  {
-    rank: 1654,
-    word: "estúpida",
   },
   {
     rank: 1655,
@@ -6713,10 +6301,6 @@ const SPANISH_WORDS = [
     word: "descanso",
   },
   {
-    rank: 1679,
-    word: "américa",
-  },
-  {
     rank: 1680,
     word: "área",
   },
@@ -6781,10 +6365,6 @@ const SPANISH_WORDS = [
     word: "clases",
   },
   {
-    rank: 1696,
-    word: "jake",
-  },
-  {
     rank: 1697,
     word: "casas",
   },
@@ -6811,14 +6391,6 @@ const SPANISH_WORDS = [
   {
     rank: 1703,
     word: "cuidar",
-  },
-  {
-    rank: 1704,
-    word: "ei",
-  },
-  {
-    rank: 1705,
-    word: "huevos",
   },
   {
     rank: 1706,
@@ -6849,10 +6421,6 @@ const SPANISH_WORDS = [
     word: "belleza",
   },
   {
-    rank: 1713,
-    word: "francia",
-  },
-  {
     rank: 1714,
     word: "abierto",
   },
@@ -6881,10 +6449,6 @@ const SPANISH_WORDS = [
     word: "aceptar",
   },
   {
-    rank: 1721,
-    word: "borracho",
-  },
-  {
     rank: 1722,
     word: "animal",
   },
@@ -6903,18 +6467,6 @@ const SPANISH_WORDS = [
   {
     rank: 1726,
     word: "viernes",
-  },
-  {
-    rank: 1727,
-    word: "bobby",
-  },
-  {
-    rank: 1728,
-    word: "martin",
-  },
-  {
-    rank: 1729,
-    word: "amy",
   },
   {
     rank: 1730,
@@ -6945,20 +6497,12 @@ const SPANISH_WORDS = [
     word: "quede",
   },
   {
-    rank: 1737,
-    word: "inglaterra",
-  },
-  {
     rank: 1738,
     word: "carga",
   },
   {
     rank: 1739,
     word: "diste",
-  },
-  {
-    rank: 1740,
-    word: "puto",
   },
   {
     rank: 1741,
@@ -6991,10 +6535,6 @@ const SPANISH_WORDS = [
   {
     rank: 1748,
     word: "proteger",
-  },
-  {
-    rank: 1749,
-    word: "daniel",
   },
   {
     rank: 1750,
@@ -7069,10 +6609,6 @@ const SPANISH_WORDS = [
     word: "mercado",
   },
   {
-    rank: 1768,
-    word: "cerdo",
-  },
-  {
     rank: 1769,
     word: "tardes",
   },
@@ -7133,10 +6669,6 @@ const SPANISH_WORDS = [
     word: "habló",
   },
   {
-    rank: 1784,
-    word: "charles",
-  },
-  {
     rank: 1785,
     word: "paga",
   },
@@ -7167,22 +6699,6 @@ const SPANISH_WORDS = [
   {
     rank: 1792,
     word: "seguros",
-  },
-  {
-    rank: 1793,
-    word: "leo",
-  },
-  {
-    rank: 1794,
-    word: "adam",
-  },
-  {
-    rank: 1795,
-    word: "and",
-  },
-  {
-    rank: 1796,
-    word: "ángeles",
   },
   {
     rank: 1797,
@@ -7285,14 +6801,6 @@ const SPANISH_WORDS = [
     word: "abierta",
   },
   {
-    rank: 1822,
-    word: "kevin",
-  },
-  {
-    rank: 1823,
-    word: "m",
-  },
-  {
     rank: 1824,
     word: "llámame",
   },
@@ -7365,10 +6873,6 @@ const SPANISH_WORDS = [
     word: "preciosa",
   },
   {
-    rank: 1842,
-    word: "sexual",
-  },
-  {
     rank: 1843,
     word: "acceso",
   },
@@ -7387,10 +6891,6 @@ const SPANISH_WORDS = [
   {
     rank: 1847,
     word: "rayos",
-  },
-  {
-    rank: 1848,
-    word: "d",
   },
   {
     rank: 1849,
@@ -7419,10 +6919,6 @@ const SPANISH_WORDS = [
   {
     rank: 1855,
     word: "ponga",
-  },
-  {
-    rank: 1856,
-    word: "brian",
   },
   {
     rank: 1857,
@@ -7477,20 +6973,12 @@ const SPANISH_WORDS = [
     word: "negra",
   },
   {
-    rank: 1870,
-    word: "to",
-  },
-  {
     rank: 1871,
     word: "habido",
   },
   {
     rank: 1872,
     word: "limpio",
-  },
-  {
-    rank: 1873,
-    word: "china",
   },
   {
     rank: 1874,
@@ -7573,10 +7061,6 @@ const SPANISH_WORDS = [
     word: "escuchando",
   },
   {
-    rank: 1894,
-    word: "eric",
-  },
-  {
     rank: 1895,
     word: "elegir",
   },
@@ -7597,10 +7081,6 @@ const SPANISH_WORDS = [
     word: "cien",
   },
   {
-    rank: 1900,
-    word: "adn",
-  },
-  {
     rank: 1901,
     word: "tantos",
   },
@@ -7613,16 +7093,8 @@ const SPANISH_WORDS = [
     word: "normalmente",
   },
   {
-    rank: 1904,
-    word: "mr",
-  },
-  {
     rank: 1905,
     word: "pastel",
-  },
-  {
-    rank: 1906,
-    word: "bastardo",
   },
   {
     rank: 1907,
@@ -7635,14 +7107,6 @@ const SPANISH_WORDS = [
   {
     rank: 1909,
     word: "dígame",
-  },
-  {
-    rank: 1910,
-    word: "anna",
-  },
-  {
-    rank: 1911,
-    word: "costa",
   },
   {
     rank: 1912,
@@ -7681,20 +7145,8 @@ const SPANISH_WORDS = [
     word: "militar",
   },
   {
-    rank: 1921,
-    word: "polvo",
-  },
-  {
-    rank: 1922,
-    word: "bella",
-  },
-  {
     rank: 1923,
     word: "quedo",
-  },
-  {
-    rank: 1924,
-    word: "kate",
   },
   {
     rank: 1925,
@@ -7761,10 +7213,6 @@ const SPANISH_WORDS = [
     word: "quiso",
   },
   {
-    rank: 1941,
-    word: "ángel",
-  },
-  {
     rank: 1942,
     word: "enviar",
   },
@@ -7817,10 +7265,6 @@ const SPANISH_WORDS = [
     word: "débil",
   },
   {
-    rank: 1955,
-    word: "roma",
-  },
-  {
     rank: 1956,
     word: "sabido",
   },
@@ -7857,10 +7301,6 @@ const SPANISH_WORDS = [
     word: "resultados",
   },
   {
-    rank: 1965,
-    word: "jerry",
-  },
-  {
     rank: 1966,
     word: "mata",
   },
@@ -7889,10 +7329,6 @@ const SPANISH_WORDS = [
     word: "oyes",
   },
   {
-    rank: 1973,
-    word: "thomas",
-  },
-  {
     rank: 1974,
     word: "periódico",
   },
@@ -7903,14 +7339,6 @@ const SPANISH_WORDS = [
   {
     rank: 1976,
     word: "piensan",
-  },
-  {
-    rank: 1977,
-    word: "washington",
-  },
-  {
-    rank: 1978,
-    word: "tv",
   },
   {
     rank: 1979,
@@ -7989,15 +7417,7 @@ const SPANISH_WORDS = [
     word: "kilómetros",
   },
   {
-    rank: 1998,
-    word: "andy",
-  },
-  {
     rank: 1999,
     word: "llevará",
-  },
-  {
-    rank: 2000,
-    word: "rachel",
   },
 ];
