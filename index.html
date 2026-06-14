@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#24204f" />
+    <meta
+      name="description"
+      content="Aprende las palabras más frecuentes del español, unas pocas cada día."
+    />
+    <title>Palabras — Aprende español</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,700;9..144,800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <header class="site-header">
+        <a class="brand" href="./" aria-label="Inicio de Palabras">
+          <span class="brand-mark" aria-hidden="true">P</span>
+          <span>PALABRAS</span>
+        </a>
+        <p>Las 2.000 palabras esenciales</p>
+      </header>
+
+      <section class="hero" aria-labelledby="page-title">
+        <p class="eyebrow">Hablamos en North York</p>
+        <h1 id="page-title">¿Cuántas palabras quieres usar?</h1>
+        <p class="hero-copy">
+          Selecciona cuántas palabras quieres usar en una oración.
+        </p>
+
+        <div class="quantity-picker" aria-label="Número de palabras">
+          <button class="quantity-option" type="button" data-count="2">
+            <strong>2</strong>
+            <span>palabras</span>
+          </button>
+          <button class="quantity-option" type="button" data-count="3">
+            <strong>3</strong>
+            <span>palabras</span>
+          </button>
+          <button class="quantity-option" type="button" data-count="4">
+            <strong>4</strong>
+            <span>palabras</span>
+          </button>
+        </div>
+      </section>
+
+      <section
+        id="lesson"
+        class="lesson"
+        aria-labelledby="lesson-title"
+        aria-live="polite"
+        tabindex="-1"
+        hidden
+      >
+        <div class="lesson-header">
+          <div>
+            <p class="eyebrow">Tus palabras</p>
+            <h2 id="lesson-title">Tus palabras son</h2>
+          </div>
+          <button id="change-count" class="text-button" type="button">
+            Cambiar cantidad
+          </button>
+        </div>
+
+        <div id="word-grid" class="word-grid"></div>
+
+        <button id="new-words" class="primary-button" type="button">
+          <span>Ver otras palabras</span>
+          <span aria-hidden="true">↻</span>
+        </button>
+      </section>
+
+      <footer>Ordenadas por frecuencia de uso</footer>
+    </main>
+
+    <script src="data/words.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
