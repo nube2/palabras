@@ -6,7 +6,7 @@
     <meta name="theme-color" content="#24204f" />
     <meta
       name="description"
-      content="Aprende las palabras más frecuentes del español, unas pocas cada día."
+      content="Practica vocabulario con frases en español de los niveles A2, B1 y B2."
     />
     <title>Palabras — Aprende español</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -24,29 +24,82 @@
           <span class="brand-mark" aria-hidden="true">P</span>
           <span>PALABRAS</span>
         </a>
-        <p>Las 2.000 palabras esenciales</p>
+        <p>Frases A2, B1 y B2 para practicar</p>
       </header>
 
       <section class="hero" aria-labelledby="page-title">
         <p class="eyebrow">Hablamos en North York</p>
-        <h1 id="page-title">¿Cuántas palabras quieres usar?</h1>
+        <h1 id="page-title">Elige tu práctica</h1>
         <p class="hero-copy">
-          Selecciona cuántas palabras quieres usar en una oración.
+          Selecciona el nivel de la frase y cuántas palabras quieres usar.
         </p>
 
-        <div class="quantity-picker" aria-label="Número de palabras">
-          <button class="quantity-option" type="button" data-count="2">
-            <strong>2</strong>
-            <span>palabras</span>
-          </button>
-          <button class="quantity-option" type="button" data-count="3">
-            <strong>3</strong>
-            <span>palabras</span>
-          </button>
-          <button class="quantity-option" type="button" data-count="4">
-            <strong>4</strong>
-            <span>palabras</span>
-          </button>
+        <div class="practice-picker">
+          <fieldset class="picker-group">
+            <legend>1. Elige el nivel de la frase</legend>
+            <div class="level-picker">
+              <button
+                class="level-option"
+                type="button"
+                data-level="A2"
+                aria-pressed="false"
+              >
+                <strong>A2</strong>
+                <span>Elemental</span>
+              </button>
+              <button
+                class="level-option"
+                type="button"
+                data-level="B1"
+                aria-pressed="false"
+              >
+                <strong>B1</strong>
+                <span>Intermedio</span>
+              </button>
+              <button
+                class="level-option"
+                type="button"
+                data-level="B2"
+                aria-pressed="false"
+              >
+                <strong>B2</strong>
+                <span>Intermedio alto</span>
+              </button>
+            </div>
+          </fieldset>
+
+          <fieldset class="picker-group">
+            <legend>2. Elige el número de palabras</legend>
+            <div class="quantity-picker">
+              <button
+                class="quantity-option"
+                type="button"
+                data-count="2"
+                disabled
+              >
+                <strong>2</strong>
+                <span>palabras</span>
+              </button>
+              <button
+                class="quantity-option"
+                type="button"
+                data-count="3"
+                disabled
+              >
+                <strong>3</strong>
+                <span>palabras</span>
+              </button>
+              <button
+                class="quantity-option"
+                type="button"
+                data-count="4"
+                disabled
+              >
+                <strong>4</strong>
+                <span>palabras</span>
+              </button>
+            </div>
+          </fieldset>
         </div>
       </section>
 
@@ -63,12 +116,28 @@
             <p class="eyebrow">Tus palabras</p>
             <h2 id="lesson-title">Tus palabras son</h2>
           </div>
-          <button id="change-count" class="text-button" type="button">
-            Cambiar cantidad
+          <button id="change-options" class="text-button" type="button">
+            Cambiar opciones
           </button>
         </div>
 
         <div id="word-grid" class="word-grid"></div>
+
+        <div class="help-area">
+          <button
+            id="help-button"
+            class="help-button"
+            type="button"
+            aria-expanded="false"
+            aria-controls="sentence-reveal"
+          >
+            Ayúdame
+          </button>
+          <div id="sentence-reveal" class="sentence-reveal" hidden>
+            <span id="sentence-level" class="sentence-level"></span>
+            <p id="sentence-text" lang="es"></p>
+          </div>
+        </div>
 
         <button id="new-words" class="primary-button" type="button">
           <span>Ver otras palabras</span>
@@ -76,10 +145,10 @@
         </button>
       </section>
 
-      <footer>Ordenadas por frecuencia de uso</footer>
+      <footer>Frases de los niveles A2, B1 y B2</footer>
     </main>
 
-    <script src="data/words.js"></script>
+    <script src="data/sentences.js"></script>
     <script src="script.js"></script>
   </body>
 </html>
